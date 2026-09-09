@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "app": {
-    "version": "0.1.26",
+    "version": "0.1.27",
     "forced": true,
-    "bundle_url": "app/etiquetas_composicao-0.1.26.enc",
-    "manual_zip_url": "app/etiquetas_composicao-0.1.26.zip",
-    "sha256_encrypted": "e8e76bdc86d4362002931470886ae98ecd6167d4ccc18cc53cf6e450f852de14",
-    "sha256_decrypted_zip": "8bd351e9094aff2b3d2f80f23f1a08168d9b7c24993be31a8cee17f7fa425b13"
+    "bundle_url": "app/etiquetas_composicao-0.1.27.enc",
+    "manual_zip_url": "app/etiquetas_composicao-0.1.27.zip",
+    "sha256_encrypted": "9f5085049fd9ccc547877c705529c66d7f3260c7133532b2c8dbba6ac08bea19",
+    "sha256_decrypted_zip": "2f45a6c36a04109075a5c608887635ddabb9a5b841007842e8747c9492a5a3ad"
   },
   "data": {
-    "version": "2026-09-08-02",
+    "version": "2026-09-09-01",
     "forced": true,
-    "bundle_url": "data/dados-2026-09-08-02.enc",
-    "manual_zip_url": "data/dados-2026-09-08-02.zip",
-    "sha256_encrypted": "cf73c3db41f075ddb7d1ba8edb73d68262efc46896f34b727cb0b541f94e967e",
-    "sha256_decrypted_zip": "40c68365b54a2793fd1d79cc48d9be4720703391bf0635faddd2bebcc36738a7"
+    "bundle_url": "data/dados-2026-09-09-01.enc",
+    "manual_zip_url": "",
+    "sha256_encrypted": "a949015124965c160788f32e7690500ce3ab820570084f0aaf3b38f75d02fc98",
+    "sha256_decrypted_zip": "35bb6a986be67dbf5aa28d66d9d907bf55e78f19f936fa5596611f779d33fbf0"
   }
 }
