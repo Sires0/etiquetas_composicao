@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "app": {
+    "version": "0.1.35",
+    "forced": true,
+    "bundle_url": "app/etiquetas_composicao-0.1.35.enc",
+    "manual_zip_url": "app/etiquetas_composicao-0.1.35.zip",
+    "sha256_encrypted": "503d4a878b405b8767fa8946ab91f619882a57269b2abf598caf708b8da61d5b",
+    "sha256_decrypted_zip": "f36fbd50fd404663461c42968b84df9e8da4bc4c60291b84f9a2b99a7c7e7be4"
+  },
+  "data": {
+    "version": "2026-11-17-02",
+    "forced": true,
+    "bundle_url": "data/dados-2026-11-17-02.enc",
+    "manual_zip_url": "",
+    "sha256_encrypted": "8f58f3bff14e3bf1fdebcee7fbb5250427c6c6a7339accb6e9ed44c61c7bdf09",
+    "sha256_decrypted_zip": "bf70fee13f923d90bccd8cb127bf108316d091d563ec9debf2e87f42ffb1de73"
+  }
+}
